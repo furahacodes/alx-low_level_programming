@@ -2,7 +2,9 @@
 
 /**
  * main - write a program that prints "_putchar"
+ *
  * Description: write a c program
+ *
  * Return: always 0
  */
 
